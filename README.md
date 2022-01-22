@@ -1,4 +1,4 @@
-# DataScienceBlog
+# Data Science Blog
 A repository for data science blog project
 
 1. *Installation* - Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.
