@@ -1,4 +1,26 @@
-# Data Science Blog
+
+# Table of contents
+1. [Installation](#Installation)
+2. [Project Motivation](#Motivation)
+3. [File Descriptions](#Descriptions)
+4. [Results](#Results)
+5. [Licensing, Authors, Acknowledgements](#Acknowledgements)
+
+## Installation <a name="Installation"></a>
+Some introduction text, formatted in heading 2 style
+
+## Project Motivation <a name="Motivation"></a>
+The first paragraph text
+
+## File Descriptions <a name="Descriptions"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Results <a name="Results"></a>
+The second paragraph text# Data Science Blog
+A repository for data science blog project
+
+## Licensing, Authors, Acknowledgements <a name="Acknowledgements"></a>
+The second paragraph text# Data Science Blog
 A repository for data science blog project
 
 1. *Installation* - Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.
