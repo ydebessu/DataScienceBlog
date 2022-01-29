@@ -22,4 +22,6 @@ Guide others through the files in your repository. You may not talk about every 
 Todo
 
 ## Licensing, Authors, Acknowledgements <a name="Acknowledgements"></a>
-Todo
+The  data used in this project is from Public Stack Overflow Developer Survey Results, you should should attribute Stack Overflow for the data.
+The code is free to use in any way.
+
