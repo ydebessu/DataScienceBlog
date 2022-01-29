@@ -7,28 +7,19 @@
 5. [Licensing, Authors, Acknowledgements](#Acknowledgements)
 
 ## Installation <a name="Installation"></a>
-Some introduction text, formatted in heading 2 style
+This project needs Anaconda distribution and Python version 3 installed.
 
 ## Project Motivation <a name="Motivation"></a>
-The first paragraph text
+I am building this project to understand the recent trend of programing language preference and the propertions of newly joining programers. The detailed question I am trying to understand are
+1. What is the prefered programing languages among developers are using now?
+2. What is the programing languages developers want to use?
+3. What is the trend of proportions of new developers joining the field?
 
 ## File Descriptions <a name="Descriptions"></a>
-This is a sub paragraph, formatted in heading 3 style
-
+Todo
+Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
 ## Results <a name="Results"></a>
-The second paragraph text# Data Science Blog
-A repository for data science blog project
+Todo
 
 ## Licensing, Authors, Acknowledgements <a name="Acknowledgements"></a>
-The second paragraph text# Data Science Blog
-A repository for data science blog project
-
-1. *Installation* - Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.
-
-2. *Project Motivation* - Discuss what your project is about, and what interested you in pursuing the project.
-
-3. *File Descriptions* - Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
-
-4. *How To Interact With Your Project* - When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?
-
-5. *Licensing, Authors, Acknowledgements* - You always want to give credit where necessary. Acknowledge other contributors, helpful peers, data providers, etc.
+Todo
