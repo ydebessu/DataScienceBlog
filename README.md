@@ -10,14 +10,15 @@
 This project needs Anaconda distribution and Python version 3 installed.
 
 ## Project Motivation <a name="Motivation"></a>
-I am building this project to understand the recent trend of programing language preference and the propertions of newly joining programers. The detailed question I am trying to understand are
-1. What is the prefered programing languages among developers are using now?
+I am building this project to understand the recent trend of programing language preference and the ratio of of new programers. The detailed question I am trying to understand are
+1. What is the prefered programing languages among developers now?
 2. What is the programing languages developers want to use?
 3. What is the trend of proportions of new developers joining the field?
 
 ## File Descriptions <a name="Descriptions"></a>
-Todo
-Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
+1. The survey data is i the `survey` folder
+2. Before using the data it needs to be extracted - run the notebook `prepareSurvey.ipynb`
+3. Main code is in ` project.ipynb`
 ## Results <a name="Results"></a>
 Todo
 
